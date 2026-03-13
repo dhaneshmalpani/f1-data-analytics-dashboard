@@ -24,3 +24,10 @@ pip install -r requirements.txt
 Run the dashboard:
 
 python -m streamlit run dashboard/app.py
+## Dashboard Preview
+
+![Dashboard](images/dashboard%20image%201.png)
+
+![Dashboard](images/dashboard%20image%202.png)
+
+![Dashboard](images/dashboard%20image%203.png)
